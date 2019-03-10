@@ -1,0 +1,93 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AlinkMessager.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CTIPort" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">6111</Value>
+    </Setting>
+    <Setting Name="AgentNo" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">8032</Value>
+    </Setting>
+    <Setting Name="AgentPwd" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="CTIAddress" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">192.168.1.221</Value>
+    </Setting>
+    <Setting Name="ActionPageUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AutoLogin" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="AutoRun" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="HttpActionPort" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">8089</Value>
+    </Setting>
+    <Setting Name="FirstCode" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ActionFieldCaller" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">phone</Value>
+    </Setting>
+    <Setting Name="ActionFieldTrunk" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ActionFieldCalled" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ActionFieldGuid" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CTIConnectString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=192.168.1.221;Initial Catalog=AiLink6.2.4.0;Persist Security Info=True;User ID=sa;Password=12345&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=192.168.1.221;Initial Catalog=AiLink6.2.4.0;Persist Security Info=True;User ID=sa;Password=12345</Value>
+    </Setting>
+    <Setting Name="FirstCodeList" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;9&lt;/string&gt;
+  &lt;string&gt;0&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="QueueCount" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="QueueMode" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="QueueTitle" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">接待员工：</Value>
+    </Setting>
+    <Setting Name="QueueInterval" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="EmployeeNo" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">8032</Value>
+    </Setting>
+    <Setting Name="SummarySupport" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="TransferHistorySupport" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ActionFieldEmployee" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LoginPageUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LoginFieldAgent" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LoginFieldEmployee" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

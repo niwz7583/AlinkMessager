@@ -1,0 +1,260 @@
+[2015-12-17 10:26:17 664] [ConnectHost] 异常类型：System.Net.Sockets.SocketException
+异常消息：由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.213:6111
+堆栈跟踪：   在 System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   在 AlinkMessager.frmMain.Login() 位置 E:\Ailink.Net\AlinkMessager\frmMain.cs:行号 178
+
+[2015-12-17 10:26:28 742] [LXConnectionSend] 向[75b57bd4a3344c58acf170c9d6509fb8-192.168.1.221:6111]发送消息[102/8001/8001/123////|]。
+[2015-12-17 10:26:28 748] [LXTcpConnection] 客户端[75b57bd4a3344c58acf170c9d6509fb8-192.168.1.221:6111]启动接收数据...
+[2015-12-17 10:26:28 767] [OnReceived] 102/0/???/|100/1/13/|
+[2015-12-17 10:26:35 630] [LXConnectionSend] 向[75b57bd4a3344c58acf170c9d6509fb8-192.168.1.221:6111]发送消息[109/8001/|]。
+[2015-12-17 10:26:35 645] [OnReceived] 109/0/???/|
+[2015-12-17 10:26:37 680] [LXConnectionSend] 向[75b57bd4a3344c58acf170c9d6509fb8-192.168.1.221:6111]发送消息[108/8001/|]。
+[2015-12-17 10:26:37 684] [OnReceived] 100/13/1/2015-12-17 10:26:33/|108/0/???/|
+[2015-12-17 10:26:49 583] [LXConnectionSend] 向[75b57bd4a3344c58acf170c9d6509fb8-192.168.1.221:6111]发送消息[109/8001/|]。
+[2015-12-17 10:26:49 587] [OnReceived] 100/1/13/|
+[2015-12-17 10:26:49 593] [OnReceived] 109/0/???/|
+[2015-12-17 10:27:01 448] [LXConnectionSend] 向[75b57bd4a3344c58acf170c9d6509fb8-192.168.1.221:6111]发送消息[103/8001/|]。
+[2015-12-17 10:29:17 022] [LXConnectionSend] 向[daa82dc86dba440986786313fcb90dca-192.168.1.221:6111]发送消息[102/8001/8001/123////|]。
+[2015-12-17 10:29:17 025] [LXTcpConnection] 客户端[daa82dc86dba440986786313fcb90dca-192.168.1.221:6111]启动接收数据...
+[2015-12-17 10:29:17 055] [OnReceived] 102/0/???/|100/1/13/|
+[2015-12-17 10:29:21 549] [LXConnectionSend] 向[daa82dc86dba440986786313fcb90dca-192.168.1.221:6111]发送消息[108/8001/|]。
+[2015-12-17 10:29:21 554] [OnReceived] 100/13/1/2015-12-17 10:29:17/|108/0/???/|
+[2015-12-17 10:29:24 164] [ConnectHost] 异常类型：System.Net.Sockets.SocketException
+异常消息：由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.213:6111
+堆栈跟踪：   在 System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   在 AlinkMessager.frmMain.Login() 位置 E:\Ailink.Net\AlinkMessager\frmMain.cs:行号 178
+
+[2015-12-17 10:29:29 316] [LXConnectionSend] 向[daa82dc86dba440986786313fcb90dca-192.168.1.221:6111]发送消息[103/8001/|]。
+[2016-02-19 14:55:29 149] [ConnectHost] 异常类型：System.Net.Sockets.SocketException
+异常消息：由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.213:6111
+堆栈跟踪：   在 System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   在 AlinkMessager.frmMain.Login() 位置 E:\Ailink.Net\AlinkMessager\frmMain.cs:行号 178
+
+[2016-02-19 15:15:59 851] [LXConnectionSend] 向[8a4a5d62b77748c0a75f6d72df9f97b4-192.168.1.221:6111]发送消息[102/8001/8001/1////|]。
+[2016-02-19 15:15:59 890] [LXTcpConnection] 客户端[8a4a5d62b77748c0a75f6d72df9f97b4-192.168.1.221:6111]启动接收数据...
+[2016-02-19 15:15:59 891] [OnReceived] 102/-1/??????/|
+[2016-02-19 15:16:10 143] [LXConnectionSend] 向[8a4a5d62b77748c0a75f6d72df9f97b4-192.168.1.221:6111]发送消息[103/8001/|]。
+[2016-02-19 15:17:25 242] [OnReceived] 102/-1/??????/|
+[2016-02-19 15:17:25 243] [LXTcpConnection] 客户端[34695e1993024c1aad2e66bd3f02d61b-192.168.1.221:6111]启动接收数据...
+[2016-02-19 15:17:33 726] [LXConnectionSend] 向[34695e1993024c1aad2e66bd3f02d61b-192.168.1.221:6111]发送消息[103/8001/|]。
+[2016-02-19 15:17:49 334] [LXConnectionSend] 向[aaff133555c444a19aa9caab880d66f2-192.168.1.221:6111]发送消息[102/8001/8001/8001////|]。
+[2016-02-19 15:17:49 334] [LXTcpConnection] 客户端[aaff133555c444a19aa9caab880d66f2-192.168.1.221:6111]启动接收数据...
+[2016-02-19 15:17:49 424] [OnReceived] 102/0/???/|
+[2016-02-19 15:18:17 134] [LXConnectionSend] 向[aaff133555c444a19aa9caab880d66f2-192.168.1.221:6111]发送消息[103/8001/|]。
+[2016-02-19 15:18:31 347] [LXConnectionSend] 向[430fc9c395c2402d9cfd1b3a6c623940-192.168.1.221:6111]发送消息[102/8001/8001/8001////|]。
+[2016-02-19 15:18:31 347] [LXTcpConnection] 客户端[430fc9c395c2402d9cfd1b3a6c623940-192.168.1.221:6111]启动接收数据...
+[2016-02-19 15:18:31 395] [OnReceived] 102/0/???/|
+[2016-02-19 15:20:23 615] [OnReceived] 101/13958077789/8001/56020331/57115AFC37B74006BADC0BD26EA56893/|
+[2016-02-19 15:20:23 622] [OnReceived] 100/1/5/|
+[2016-02-19 15:20:37 724] [OnReceived] 100/5/1/57115AFC37B74006BADC0BD26EA56893_2016-02-19 15:20:22_2016-02-19 15:20:36/|
+[2016-02-19 15:21:12 038] [LXConnectionSend] 向[430fc9c395c2402d9cfd1b3a6c623940-192.168.1.221:6111]发送消息[107/8001/913958077789/|]。
+[2016-02-19 15:21:12 044] [OnReceived] 100/1/3/|
+[2016-02-19 15:21:12 062] [OnReceived] 107/0/???/|
+[2016-02-19 15:21:42 149] [LXConnectionSend] 向[430fc9c395c2402d9cfd1b3a6c623940-192.168.1.221:6111]发送消息[107/8001/9913958077789/|]。
+[2016-02-19 15:21:42 153] [OnReceived] 107/0/???/|
+[2016-02-19 15:23:02 480] [OnReceived] 100/3/1/2016-02-19 15:23:01/|
+[2016-02-19 15:23:32 523] [OnReceived] 100/1/2/|
+[2016-02-19 15:23:34 702] [OnReceived] 100/2/1/2016-02-19 15:23:33/|
+[2016-02-19 15:23:56 428] [LXConnectionSend] 向[430fc9c395c2402d9cfd1b3a6c623940-192.168.1.221:6111]发送消息[107/8001/913958077789/|]。
+[2016-02-19 15:23:56 434] [OnReceived] 100/1/3/|
+[2016-02-19 15:23:56 469] [OnReceived] 107/0/???/|
+[2016-02-19 15:23:58 602] [OnReceived] 301/101//|
+[2016-02-19 15:24:10 392] [OnReceived] 100/3/6/9E4BC69B80A34F078F942D7A736EF70C/|134/d:\AheadRecord\2016-02-19\15\HZ-8001-20160219152409-8001-13958077789-30.wav/\\192.168.1.221\AheadRecord_d\2016-02-19\15\HZ-8001-20160219152409-8001-13958077789-30.wav/http://192.168.1.221:80/AheadRecord_d/2016-02-19/15/HZ-8001-20160219152409-8001-13958077789-30.wav|
+[2016-02-19 15:24:11 706] [OnReceived] 100/6/7/9E4BC69B80A34F078F942D7A736EF70C_2016-02-19 15:24:09_2016-02-19 15:24:10/|
+[2016-02-19 15:25:59 352] [OnReceived] 100/7/1/9E4BC69B80A34F078F942D7A736EF70C_2016-02-19 15:24:09_2016-02-19 15:24:10/|
+[2016-02-19 15:28:08 088] [LXConnectionSend] 向[430fc9c395c2402d9cfd1b3a6c623940-192.168.1.221:6111]发送消息[103/8001/|]。
+[2016-08-10 11:54:08 467] [ConnectHost] 异常类型：System.Net.Sockets.SocketException
+异常消息：由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.213:6111
+堆栈跟踪：   在 System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   在 AlinkMessager.frmMain.Login() 位置 E:\Ailink.Net\AlinkMessager\frmMain.cs:行号 187
+
+[2016-08-10 11:54:08 915] [LXConnectionSend] 向[f38c8ad2883747d5886d2431e3d3d821-192.168.1.221:6111]发送消息[102/8033/8033/1////|]。
+[2016-08-10 11:54:08 947] [LXTcpConnection] 客户端[f38c8ad2883747d5886d2431e3d3d821-192.168.1.221:6111]启动接收数据...
+[2016-08-10 11:54:08 991] [OnReceived] 102/0/???/|
+[2016-08-10 11:54:48 121] [LXConnectionSend] 向[f38c8ad2883747d5886d2431e3d3d821-192.168.1.221:6111]发送消息[106/8033/2913958077789/|]。
+[2016-08-10 11:54:48 122] [OnReceived] 100/1/7/2016-08-10 11:54:59/|
+[2016-08-10 11:54:48 160] [OnReceived] 106/-1/???/|
+[2016-08-10 11:55:37 272] [OnReceived] 100/7/1/2016-08-10 11:55:48/|
+[2016-08-10 11:55:39 756] [OnReceived] 100/1/2/|
+[2016-08-10 11:55:42 178] [OnReceived] 100/2/1/2016-08-10 11:55:53/|
+[2016-08-10 11:56:04 441] [LXConnectionSend] 向[f38c8ad2883747d5886d2431e3d3d821-192.168.1.221:6111]发送消息[107/8033/92956788567/|]。
+[2016-08-10 11:56:04 442] [OnReceived] 100/1/3/|
+[2016-08-10 11:56:04 448] [OnReceived] 107/0/???/|
+[2016-08-10 11:56:12 600] [OnReceived] 100/3/1/2016-08-10 11:56:24/|
+[2016-08-10 11:56:16 742] [LXConnectionSend] 向[f38c8ad2883747d5886d2431e3d3d821-192.168.1.221:6111]发送消息[103/8033/|]。
+[2016-08-10 11:56:16 748] [OnReceived] 103/0/???/|
+[2016-08-10 11:57:07 109] [LXConnectionSend] 向[82555eb6d2544d68a8d47b23227692e5-192.168.1.221:6111]发送消息[102/8033/8033/1////|]。
+[2016-08-10 11:57:07 111] [LXTcpConnection] 客户端[82555eb6d2544d68a8d47b23227692e5-192.168.1.221:6111]启动接收数据...
+[2016-08-10 11:57:07 139] [OnReceived] 102/0/???/|
+[2016-08-10 11:57:11 638] [ConnectHost] 异常类型：System.Net.Sockets.SocketException
+异常消息：由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.213:6111
+堆栈跟踪：   在 System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   在 AlinkMessager.frmMain.Login() 位置 E:\Ailink.Net\AlinkMessager\frmMain.cs:行号 187
+
+[2016-08-10 11:57:19 690] [LXConnectionSend] 向[6473e73901d045dca6f1fa139f8379bd-192.168.1.221:6111]发送消息[102/8033/8033/1////|]。
+[2016-08-10 11:57:19 691] [LXTcpConnection] 客户端[6473e73901d045dca6f1fa139f8379bd-192.168.1.221:6111]启动接收数据...
+[2016-08-10 11:57:19 732] [OnReceived] 102/0/???/|
+[2016-08-10 11:57:36 945] [LXConnectionSend] 向[6473e73901d045dca6f1fa139f8379bd-192.168.1.221:6111]发送消息[107/8033/2956788567/|]。
+[2016-08-10 11:57:36 947] [OnReceived] 100/1/3/|
+[2016-08-10 11:57:36 953] [OnReceived] 107/0/???/|
+[2016-08-10 11:57:38 725] [OnReceived] 301/101//|
+[2016-08-10 11:57:44 639] [OnReceived] 100/3/6/1C2F9D88C22948948282D140BCBA99D7/|
+[2016-08-10 11:57:44 692] [OnReceived] 134/d:\AheadRecord\2016-08-10\11\w-8033-20160810115756-8033-56788567-32.wav/\\192.168.1.221\AheadRecord_d\2016-08-10\11\w-8033-20160810115756-8033-56788567-32.wav/http://192.168.1.221:8090/AheadRecord_d/2016-08-10/11/w-8033-20160810115756-8033-56788567-32.wav|
+[2016-08-10 11:58:00 945] [LXConnectionSend] 向[6473e73901d045dca6f1fa139f8379bd-192.168.1.221:6111]发送消息[106/8033/2913958077789/|]。
+[2016-08-10 11:58:00 946] [OnReceived] 106/0/???/|
+[2016-08-10 11:58:04 013] [OnReceived] 100/6/1/1C2F9D88C22948948282D140BCBA99D7_2016-08-10 11:57:56_2016-08-10 11:58:15/|
+[2016-08-10 12:01:42 226] [LXConnectionSend] 向[6123bbb9254c40d9aa0537eecf2b9fec-192.168.1.221:6111]发送消息[102/8033/8033/1////|]。
+[2016-08-10 12:01:42 229] [LXTcpConnection] 客户端[6123bbb9254c40d9aa0537eecf2b9fec-192.168.1.221:6111]启动接收数据...
+[2016-08-10 12:01:42 256] [OnReceived] 102/0/???/|
+[2016-08-10 12:01:47 096] [ConnectHost] 异常类型：System.Net.Sockets.SocketException
+异常消息：由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.213:6111
+堆栈跟踪：   在 System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   在 AlinkMessager.frmMain.Login() 位置 E:\Ailink.Net\AlinkMessager\frmMain.cs:行号 187
+
+[2016-08-10 12:01:50 549] [LXConnectionSend] 向[bb89717222f74c159bf29b2cd89a9cc6-192.168.1.221:6111]发送消息[102/8033/8033/1////|]。
+[2016-08-10 12:01:50 549] [LXTcpConnection] 客户端[bb89717222f74c159bf29b2cd89a9cc6-192.168.1.221:6111]启动接收数据...
+[2016-08-10 12:01:50 591] [OnReceived] 102/0/???/|
+[2016-08-10 12:02:10 171] [LXConnectionSend] 向[bb89717222f74c159bf29b2cd89a9cc6-192.168.1.221:6111]发送消息[107/8033/1956788567/|]。
+[2016-08-10 12:02:10 172] [OnReceived] 100/1/3/|
+[2016-08-10 12:02:10 178] [OnReceived] 107/0/???/|
+[2016-08-10 12:02:12 069] [OnReceived] 301/101//|
+[2016-08-10 12:02:18 032] [OnReceived] 100/3/6/AE41B2DC652241C782FD46B9916BA848/|
+[2016-08-10 12:02:18 065] [OnReceived] 134/d:\AheadRecord\2016-08-10\12\w-8033-20160810120229-8033-56788567-32.wav/\\192.168.1.221\AheadRecord_d\2016-08-10\12\w-8033-20160810120229-8033-56788567-32.wav/http://192.168.1.221:8090/AheadRecord_d/2016-08-10/12/w-8033-20160810120229-8033-56788567-32.wav|
+[2016-08-10 12:02:27 365] [LXConnectionSend] 向[bb89717222f74c159bf29b2cd89a9cc6-192.168.1.221:6111]发送消息[106/8033/1913958077789/|]。
+[2016-08-10 12:02:27 367] [OnReceived] 106/0/???/|
+[2016-08-10 12:02:29 867] [OnReceived] 100/6/1/AE41B2DC652241C782FD46B9916BA848_2016-08-10 12:02:29_2016-08-10 12:02:41/|
+[2016-08-10 12:08:20 793] [LXConnectionSend] 向[f568f9b6e647419f896d0e477d63289e-192.168.1.221:6111]发送消息[102/8001/8001/1////|]。
+[2016-08-10 12:08:20 796] [LXTcpConnection] 客户端[f568f9b6e647419f896d0e477d63289e-192.168.1.221:6111]启动接收数据...
+[2016-08-10 12:08:23 811] [ConnectHost] 异常类型：System.Net.Sockets.SocketException
+异常消息：由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.213:6111
+堆栈跟踪：   在 System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   在 AlinkMessager.frmMain.Login() 位置 E:\Ailink.Net\AlinkMessager\frmMain.cs:行号 187
+
+[2016-08-10 12:08:28 273] [LXConnectionSend] 向[4996a7ac9c7144b98cecbeb9194db80b-192.168.1.221:6111]发送消息[102/8033/8033/1////|]。
+[2016-08-10 12:08:28 273] [LXTcpConnection] 客户端[4996a7ac9c7144b98cecbeb9194db80b-192.168.1.221:6111]启动接收数据...
+[2016-08-10 12:08:28 317] [OnReceived] 102/0/???/|
+[2016-08-10 12:10:24 375] [ConnectHost] 异常类型：System.Net.Sockets.SocketException
+异常消息：由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.213:6111
+堆栈跟踪：   在 System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   在 AlinkMessager.frmMain.Login() 位置 E:\Ailink.Net\AlinkMessager\frmMain.cs:行号 187
+
+[2016-08-10 12:11:06 961] [LXConnectionSend] 向[d7b4c9d4037445c7a2f524525de41b69-192.168.1.221:6111]发送消息[102/8033/8033/1////|]。
+[2016-08-10 12:11:06 963] [LXTcpConnection] 客户端[d7b4c9d4037445c7a2f524525de41b69-192.168.1.221:6111]启动接收数据...
+[2016-08-10 12:11:07 003] [OnReceived] 102/0/???/|
+[2016-08-10 12:11:22 498] [LXConnectionSend] 向[d7b4c9d4037445c7a2f524525de41b69-192.168.1.221:6111]发送消息[106/8033/1956788567/|]。
+[2016-08-10 12:11:22 500] [OnReceived] 106/-1/???/|
+[2016-08-10 12:11:25 550] [OnReceived] 100/1/2/|
+[2016-08-10 12:11:27 445] [OnReceived] 100/2/1/2016-08-10 12:11:39/|
+[2017-04-20 09:30:50 913] [ConnectHost] 异常类型：System.Net.Sockets.SocketException
+异常消息：由于目标计算机积极拒绝，无法连接。 192.168.1.96:6111
+堆栈跟踪：   在 System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   在 AlinkMessager.frmMain.Login() 位置 E:\Ailink.Net\AlinkMessager\frmMain.cs:行号 187
+
+[2017-04-20 09:30:51 690] [ConnectHost] 异常类型：System.Net.Sockets.SocketException
+异常消息：由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.213:6111
+堆栈跟踪：   在 System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   在 AlinkMessager.frmMain.Login() 位置 E:\Ailink.Net\AlinkMessager\frmMain.cs:行号 187
+
+[2017-04-20 09:30:58 258] [OnReceived] 100/0/1//|
+[2017-04-20 09:30:58 260] [LXConnectionSend] 向[2df235aaa42c4e509490353ffa4a8069-192.168.1.98:6111]发送消息[102/8001/8001/8001////|]。
+[2017-04-20 09:30:58 262] [LXTcpConnection] 客户端[2df235aaa42c4e509490353ffa4a8069-192.168.1.98:6111]启动接收数据...
+[2017-04-20 09:30:58 263] [OnReceived] 102/0//|
+[2017-04-20 09:30:58 310] [OnReceived] 100/1/0//|
+[2017-04-20 09:31:56 943] [LXConnectionSend] 向[2df235aaa42c4e509490353ffa4a8069-192.168.1.98:6111]发送消息[103/8001/|]。
+[2017-04-20 09:32:02 422] [LXConnectionSend] 向[1f9741acf5284e6499da3a28e47d929e-192.168.1.98:6111]发送消息[102/8013/8013/8013////|]。
+[2017-04-20 09:32:02 422] [LXTcpConnection] 客户端[1f9741acf5284e6499da3a28e47d929e-192.168.1.98:6111]启动接收数据...
+[2017-04-20 09:32:02 432] [OnReceived] 102/0//|
+[2017-04-20 09:39:36 985] [OnReceived] 100/1/3//|
+[2017-04-20 09:39:42 877] [OnReceived] 100/3/6//|
+[2017-04-20 09:39:42 905] [OnReceived] 134/8013/c:/myRecordingfiles/2017-04-20/81036b7d-f1d7-452f-9389-fdbe993e7040.wav/http://192.168.1.98:8050/2017-04-20/81036b7d-f1d7-452f-9389-fdbe993e7040.wav/|
+[2017-04-20 09:42:14 847] [OnReceived] 100/6/1/81036b7d-f1d7-452f-9389-fdbe993e7040_2017-04-20 09:39:28_1970-01-01 08:00:00/|
+[2017-04-20 09:42:57 627] [OnReceived] 100/1/3//|
+[2017-04-20 09:43:03 985] [OnReceived] 100/3/6//|
+[2017-04-20 09:43:04 034] [OnReceived] 134/8013/c:/myRecordingfiles/2017-04-20/4ab65787-eed0-43a5-884f-46baf4a0ff5b.wav/http://192.168.1.98:8050/2017-04-20/4ab65787-eed0-43a5-884f-46baf4a0ff5b.wav/|
+[2017-04-20 09:45:14 997] [OnReceived] 100/6/1/4ab65787-eed0-43a5-884f-46baf4a0ff5b_2017-04-20 09:42:49_1970-01-01 08:00:00/|
+[2017-04-20 10:02:22 194] [OnReceived] 100/1/3//|
+[2017-04-20 10:02:28 031] [OnReceived] 100/3/6//|
+[2017-04-20 10:02:28 072] [OnReceived] 134/8013/c:/myRecordingfiles/2017-04-20/b520fb14-9fdb-4eb5-ad26-eac684aa5af8.wav/http://192.168.1.98:8050/2017-04-20/b520fb14-9fdb-4eb5-ad26-eac684aa5af8.wav/|
+[2017-04-20 10:02:40 211] [OnReceived] 100/6/1/b520fb14-9fdb-4eb5-ad26-eac684aa5af8_2017-04-20 10:02:13_1970-01-01 08:00:00/|
+[2017-04-20 10:18:49 578] [OnReceived] 100/1/3//|
+[2017-04-20 10:18:58 717] [OnReceived] 100/3/6//|
+[2017-04-20 10:18:58 762] [OnReceived] 134/8013/c:/myRecordingfiles/2017-04-20/dd7b3f25-70d4-4aeb-bfe5-6bfc73dde0ea.wav/http://192.168.1.98:8050/2017-04-20/dd7b3f25-70d4-4aeb-bfe5-6bfc73dde0ea.wav/|
+[2017-04-20 10:23:25 317] [OnReceived] 100/6/1/dd7b3f25-70d4-4aeb-bfe5-6bfc73dde0ea_2017-04-20 10:18:40_1970-01-01 08:00:00/|
+[2017-04-20 10:42:12 304] [OnReceived] 100/1/3//|
+[2017-04-20 10:42:18 532] [OnReceived] 100/3/6//|
+[2017-04-20 10:42:18 572] [OnReceived] 134/8013/c:/myRecordingfiles/2017-04-20/0394ba8e-e49e-4360-bc4f-a49d78faacea.wav/http://192.168.1.98:8050/2017-04-20/0394ba8e-e49e-4360-bc4f-a49d78faacea.wav/|
+[2017-04-20 10:42:26 275] [OnReceived] 100/6/1/0394ba8e-e49e-4360-bc4f-a49d78faacea_2017-04-20 10:42:03_1970-01-01 08:00:00/|
+[2017-04-20 11:26:27 505] [OnReceived] 100/1/5//|
+[2017-04-20 11:26:27 517] [OnReceived] 101/13276813695/8013/56020331/48f3d7cd-1d19-4bbc-8ec6-17002ecc9997/|
+[2017-04-20 11:26:31 771] [OnReceived] 100/5/6//|
+[2017-04-20 11:26:31 828] [OnReceived] 134/8013/c:/myRecordingfiles/2017-04-20/48f3d7cd-1d19-4bbc-8ec6-17002ecc9997.wav/http://192.168.1.98:8050/2017-04-20/48f3d7cd-1d19-4bbc-8ec6-17002ecc9997.wav/|
+[2017-04-20 11:27:01 312] [OnReceived] 100/6/1/48f3d7cd-1d19-4bbc-8ec6-17002ecc9997_2017-04-20 11:26:18_2017-04-20 11:26:23/|
+[2017-04-20 11:48:05 252] [OnReceived] 100/1/3//|
+[2017-04-20 11:48:11 511] [OnReceived] 100/3/6//|
+[2017-04-20 11:48:11 543] [OnReceived] 134/8013/c:/myRecordingfiles/2017-04-20/98e1a849-0657-47ea-9cde-73125c768502.wav/http://192.168.1.98:8050/2017-04-20/98e1a849-0657-47ea-9cde-73125c768502.wav/|
+[2017-04-20 11:49:59 505] [OnReceived] 100/6/1/98e1a849-0657-47ea-9cde-73125c768502_2017-04-20 11:47:56_1970-01-01 08:00:00/|
+[2017-04-20 15:37:57 217] [LXConnectionSend] 向[1f9741acf5284e6499da3a28e47d929e-192.168.1.98:6111]发送消息[103/8013/|]。
+[2018-01-18 09:19:09 738] [ConnectHost] 异常类型：System.Net.Sockets.SocketException
+异常消息：由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.213:6111
+堆栈跟踪：   在 System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   在 AlinkMessager.frmMain.Login() 位置 E:\Ailink.Net\AlinkMessager\frmMain.cs:行号 187
+
+[2018-01-18 09:19:20 276] [ConnectHost] 异常类型：System.Net.Sockets.SocketException
+异常消息：由于目标计算机积极拒绝，无法连接。 192.168.1.221:6111
+堆栈跟踪：   在 System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   在 AlinkMessager.frmMain.Login() 位置 E:\Ailink.Net\AlinkMessager\frmMain.cs:行号 187
+
+[2018-01-18 09:19:33 160] [ConnectHost] 异常类型：System.Net.Sockets.SocketException
+异常消息：由于目标计算机积极拒绝，无法连接。 192.168.1.221:6111
+堆栈跟踪：   在 System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   在 AlinkMessager.frmMain.Login() 位置 E:\Ailink.Net\AlinkMessager\frmMain.cs:行号 187
+
+[2018-01-18 09:21:25 292] [LXConnectionSend] 向[8f03805d10a643fcbf37cb2929f2e60a-192.168.1.221:6111]发送消息[102/8031/8031/1////|]。
+[2018-01-18 09:21:25 295] [LXTcpConnection] 客户端[8f03805d10a643fcbf37cb2929f2e60a-192.168.1.221:6111]启动接收数据...
+[2018-01-18 09:21:25 544] [OnReceived] 100/0/1|
+[2018-01-18 09:21:25 549] [OnReceived] 102/0/???/|
+[2018-01-18 09:24:47 684] [LXConnectionSend] 向[8f03805d10a643fcbf37cb2929f2e60a-192.168.1.221:6111]发送消息[103/8031/|]。
+[2018-03-13 11:52:34 724] [ConnectHost] 异常类型：System.Net.Sockets.SocketException
+异常消息：由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.213:6111
+堆栈跟踪：   在 System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   在 AlinkMessager.frmMain.Login() 位置 E:\Ailink.Net\AlinkMessager\frmMain.cs:行号 189
+
+[2018-03-14 14:34:09 081] [LXConnectionSend] 向[d9d4073c82fb4e73bd3d06d918707242-192.168.1.221:6111]发送消息[102/8032/8032/1////|]。
+[2018-03-14 14:34:09 143] [LXTcpConnection] 客户端[d9d4073c82fb4e73bd3d06d918707242-192.168.1.221:6111]启动接收数据...
+[2018-03-14 14:34:09 154] [OnReceived] 100/0/1|
+[2018-03-14 14:34:09 209] [OnReceived] 102/0/???/|
+[2018-03-14 14:34:12 857] [ConnectHost] 异常类型：System.Net.Sockets.SocketException
+异常消息：由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.213:6111
+堆栈跟踪：   在 System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   在 AlinkMessager.frmMain.Login() 位置 E:\Ailink.Net\AlinkMessager\frmMain.cs:行号 208
+
+[2018-03-14 14:34:40 356] [LXConnectionSend] 向[d9d4073c82fb4e73bd3d06d918707242-192.168.1.221:6111]发送消息[103/8032/|]。
+[2018-03-14 14:47:11 457] [ConnectHost] 异常类型：System.Net.Sockets.SocketException
+异常消息：由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 192.168.1.213:6111
+堆栈跟踪：   在 System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   在 AlinkMessager.frmMain.Login() 位置 E:\Ailink.Net\AlinkMessager\frmMain.cs:行号 208
+
+[2018-03-14 14:47:25 323] [LXConnectionSend] 向[825414e8a2ba4423bc1cd98369203113-192.168.1.221:6111]发送消息[102/8032/8032/1////|]。
+[2018-03-14 14:47:25 324] [LXTcpConnection] 客户端[825414e8a2ba4423bc1cd98369203113-192.168.1.221:6111]启动接收数据...
+[2018-03-14 14:47:25 363] [OnReceived] 100/0/1|
+[2018-03-14 14:47:25 368] [OnReceived] 102/0/???/|
+[2018-03-14 14:47:25 397] [OnReceivedError] 异常类型：System.InvalidOperationException
+异常消息：线程间操作无效: 从不是创建控件“rlv_agents”的线程访问它。
+堆栈跟踪：   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 AlinkMessager.frmMain.ParseCommand(String cmd) 位置 E:\Ailink.Net\AlinkMessager\frmMain.cs:行号 513
+   在 AlinkMessager.frmMain.OnReceivedData(ILXConnection c, String p) 位置 E:\Ailink.Net\AlinkMessager\frmMain.cs:行号 573
+
+[2018-03-14 14:48:24 438] [LXConnectionSend] 向[825414e8a2ba4423bc1cd98369203113-192.168.1.221:6111]发送消息[103/8032/|]。
+[2018-03-14 14:48:41 159] [LXConnectionSend] 向[ddf48a6cea824744b5c2b8c2141f5fd8-192.168.1.221:6111]发送消息[102/8032/8032/1////|]。
+[2018-03-14 14:48:41 159] [LXTcpConnection] 客户端[ddf48a6cea824744b5c2b8c2141f5fd8-192.168.1.221:6111]启动接收数据...
+[2018-03-14 14:48:41 198] [OnReceived] 100/0/1|
+[2018-03-14 14:48:41 204] [OnReceived] 102/0/???/|
+[2018-03-16 15:52:52 396] [LXConnectionSend] 向[88118c49fc2d4f55b89d78b34882b8ed-192.168.1.221:6111]发送消息[102/8032/8032/1////|]。
+[2018-03-16 15:52:52 508] [OnReceived] 100/0/1|
+[2018-03-16 15:52:52 510] [LXTcpConnection] 客户端[88118c49fc2d4f55b89d78b34882b8ed-192.168.1.221:6111]启动接收数据...
+[2018-03-16 15:52:52 567] [OnReceived] 102/0/成功/|
+[2018-03-16 15:52:52 572] [ShowResponse] Line:600 Msg:签入成功
+[2018-03-16 17:44:01 119] [OnReceived] 100/1/2/|
+[2018-03-16 17:44:02 323] [OnReceived] 100/2/1/2018-03-16 17:43:59/|

@@ -1,0 +1,56 @@
+REGISTER sip:192.168.1.221 SIP/2.0
+Via: SIP/2.0/UDP 124.90.69.141:10060;branch=z9hG4bK-d87543-68431f7e201de318-1--d31452-;rport
+From: "8001" <sip:8001@192.168.1.221>;tag=17574552365
+To: "8001" <sip:8001@192.168.1.221>
+Call-ID: 4769@124.90.69.141
+CSeq: 1 REGISTER
+Contact: <sip:8001@124.90.69.141:10060;rinstance=29b157b79f7f59a7>
+Max-Forwards: 70
+User-Agent: PhoenixPhone Softphone
+Expires: 3600
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, REFER, NOTIFY, MESSAGE, SUBSCRIBE, INFO
+Content-Length: 0
+
+ 
+REGISTER sip:192.168.1.221 SIP/2.0
+Via: SIP/2.0/UDP 124.90.69.141:10060;branch=z9hG4bK-d87543-68431f7e201de318-1--d31452-;rport
+From: "8001" <sip:8001@192.168.1.221>;tag=17574552365
+To: "8001" <sip:8001@192.168.1.221>
+Call-ID: 4769@124.90.69.141
+CSeq: 1 REGISTER
+Contact: <sip:8001@124.90.69.141:10060;rinstance=29b157b79f7f59a7>
+Max-Forwards: 70
+User-Agent: PhoenixPhone Softphone
+Expires: 3600
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, REFER, NOTIFY, MESSAGE, SUBSCRIBE, INFO
+Content-Length: 0
+
+ 
+REGISTER sip:192.168.1.221 SIP/2.0
+Via: SIP/2.0/UDP 124.90.69.141:10060;branch=z9hG4bK-d87543-68431f7e201de318-1--d31452-;rport
+From: "8001" <sip:8001@192.168.1.221>;tag=17574552365
+To: "8001" <sip:8001@192.168.1.221>
+Call-ID: 4769@124.90.69.141
+CSeq: 1 REGISTER
+Contact: <sip:8001@124.90.69.141:10060;rinstance=29b157b79f7f59a7>
+Max-Forwards: 70
+User-Agent: PhoenixPhone Softphone
+Expires: 3600
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, REFER, NOTIFY, MESSAGE, SUBSCRIBE, INFO
+Content-Length: 0
+
+ 
+REGISTER sip:192.168.1.221 SIP/2.0
+Via: SIP/2.0/UDP 124.90.69.141:10060;branch=z9hG4bK-d87543-68431f7e201de318-1--d31452-;rport
+From: "8001" <sip:8001@192.168.1.221>;tag=17574552365
+To: "8001" <sip:8001@192.168.1.221>
+Call-ID: 4769@124.90.69.141
+CSeq: 1 REGISTER
+Contact: <sip:8001@124.90.69.141:10060;rinstance=29b157b79f7f59a7>
+Max-Forwards: 70
+User-Agent: PhoenixPhone Softphone
+Expires: 3600
+Allow: INVITE, ACK, BYE, CANCEL, OPTIONS, REFER, NOTIFY, MESSAGE, SUBSCRIBE, INFO
+Content-Length: 0
+
+ 
